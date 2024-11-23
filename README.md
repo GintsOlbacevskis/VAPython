@@ -1,2 +1,2 @@
 # VAPython
-For VA.lv course
+For VA.lv course: For starters
